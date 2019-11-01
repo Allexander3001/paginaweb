@@ -174,7 +174,7 @@ position:relative;
 }
       
 .imagenes{
-    background-color: #ffffff;
+    
     padding: 5px 10px 5px 10px;
     margin:2px;
     float: left  ;
@@ -199,16 +199,4 @@ text-align:left;
 text-decoration: none;
 }
 
-#buen {
-    background-color:coral;
-}
-#capa1 {
-    background-color:#777;
-}
-#capa2 {
-    background-color: coral;
-}
-#fondo {
-    background-color: lightcyan;
-}
 
